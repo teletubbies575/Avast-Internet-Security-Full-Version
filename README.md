@@ -239,4 +239,4 @@ This repository serves as the official landing page for Avast Internet Security.
 **Get the most recent version of Avast Internet Security today!**
 
 ---
-**Last updated:** 2026-09-14 11:33:57 UTC
+**Last updated:** 2026-09-14 17:29:44 UTC
